@@ -1,5 +1,5 @@
 # PKUAutoSubmit (modified)
-好好学习，天天向上
+好好学习，天天向上上
 
 **UPDATE 2020/10/18**
 
